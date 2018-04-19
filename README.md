@@ -1,2 +1,2 @@
 # testTags
-this is a test repo
+this is a test repo with an index file
